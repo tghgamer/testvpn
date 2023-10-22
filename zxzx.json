@@ -1,18 +1,19 @@
 {
    "files": [    
 {
-         "name": "[ ᴛɢʜ-ғɪx-ᴅᴛᴀᴄ ]",
+         "name": "ᴛɢʜ-ғɪx-ᴅᴛᴀᴄ",
          "url": "https://raw.githubusercontent.com/tghgamer/testvpn/main/VipTgh.ovpn"
       }
 ,
 {
-         "name": "",
-         "url": ""
+         "name": "VIP-TH-OK-Rider01-TRUE",
+         "url": "https://raw.githubusercontent.com/BMW2003ZX/Okrider/main/OK-Rider-01.ovpn"
       }
    ],
 "message":"
- ยินดีต้อนเข้าสู่ ᴛɢʜ-ɢᴀᴍᴇʀ-ᴠᴘɴ
-\n\nเวอร์ชั่นไฟล์ :1",
+ยินดีต้อนเข้าสู่ OK-Rider VPN
+\n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "[ เวอร์ชั่น ]":1
+   "version":4
 }
+
