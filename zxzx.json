@@ -1,17 +1,18 @@
 {
    "files": [    
 {
-         "name": "VIP-TH-VPN-DTAC",
+         "name": "FREE-FAST-TH-VPN-DTAC : Server : 1",
          "url": "https://raw.githubusercontent.com/tghgamer/testvpn/main/VipTgh.ovpn"
       }
 ,
 {
-         "name": "VIP-TH-OK-Rider01-TRUE",
-         "url": "https://raw.githubusercontent.com/BMW2003ZX/Okrider/main/OK-Rider-01.ovpn"
+         "name": "FREE-FAST-TH-VPN-DTAC : Server : 2",
+         "url": "https://raw.githubusercontent.com/tghgamer/testvpn/main/Vip-Tgh2.ovpn"
       }
    ],
 "message":"
-🇹🇭[ ยินดีต้อนเข้าสู่ ᴛɢʜ-ɢᴀᴍᴇʀ-ᴠᴘɴ ]\n🇹🇭\n•ทดสอบ : Test
+🇹🇭[ ยินดีต้อนเข้าสู่ ᴛɢʜ-ɢᴀᴍᴇʀ-ᴠᴘɴ ]\n
+🇹🇭\n🇹🇭•เซิฟเวอร์-อัพเดท : FREE-FAST-TH-VPN-DTAC : Server : 2
    \n 🗂 : [ เวอร์ชั่นไฟล์ ]:1",
 "title":"🆕New Update File🆙" ,
    "version":4
